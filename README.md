@@ -6,5 +6,3 @@ With each swipe the numbers will get double and when the person/player reach 204
 
 ### Tech Stack
 I have used tkinter library of python to design the GUI. 
-
-`Feel Free to contribute and edit`
